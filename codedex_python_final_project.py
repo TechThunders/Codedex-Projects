@@ -24,6 +24,7 @@ You have 5 lives. If you succeed, congrats; if you lose, better luck next time.
 For your info:
 1. The letters can be upper-case or lower-case, enter as it was entered by other person.
 2. Hints are only available if they are allowed by the other person.
+3. You are only allowed to enter letter by letter, not whole word or part of it
 """
 
 hangman = ["""
